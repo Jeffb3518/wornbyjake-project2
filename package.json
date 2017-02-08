@@ -1,0 +1,30 @@
+{
+  "name": "wornbyjake",
+  "version": "1.0.0",
+  "description": "WornByJake Marketplace",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "elasticsearch": "^12.1.3",
+    "express": "^4.14.1",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "save": "^2.3.0",
+    "sequelize": "^3.30.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanbeaulieu/wornbyjake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanbeaulieu/wornbyjake/issues"
+  },
+  "homepage": "https://github.com/stefanbeaulieu/wornbyjake#readme"
+}
